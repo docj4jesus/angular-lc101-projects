@@ -16,3 +16,9 @@ img {
     display: block;
     margin: auto;
 }
+
+p {
+  color: green;
+  text-align: center;
+  font-size: 25px
+}
